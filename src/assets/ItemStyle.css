@@ -1,0 +1,17 @@
+.news-app {
+    display: flex;
+    justify-content: center;
+}
+
+.news-item {
+    width: 700px;
+    padding: 20px;
+    border: 1px solid;
+    margin-bottom: 20px;
+}
+
+.news-img {
+    width: 400px;
+}
+
+body {background-color: rgb(56, 94, 95)}
